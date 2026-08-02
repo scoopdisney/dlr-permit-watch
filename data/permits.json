@@ -1,0 +1,84 @@
+{
+  "last_updated": "2026-08-02T22:50:00Z",
+  "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
+  "permits": [
+    {
+      "id": "bld2026-03536",
+      "date": "2026-07-31",
+      "title": "GCH – Banquet Kitchen Tenant Improvement (Plumbing & Mechanical)",
+      "description": "Plumbing and Mechanical to support GCH - Banquet Kitchen - Tenant Improvement. REF BLD2026-02429. Status: Issued.",
+      "location": "Grand Californian Hotel – 1600 S Disneyland Dr, Anaheim",
+      "tags": ["Grand Californian", "Tenant Improvement", "Plumbing", "Mechanical"],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-03536",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03524",
+      "date": "2026-07-30",
+      "title": "Lewis Street Warehouse – Tenant Improvement (Baler & Parking)",
+      "description": "DLR - Lewis Street Warehouse - Tenant Improvement: Replace baler unit at exterior and restripe parking. Status: Plan Review.",
+      "location": "1625 S Lewis St, Anaheim",
+      "tags": ["Backstage", "Warehouse", "Tenant Improvement"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03524",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03525",
+      "date": "2026-07-30",
+      "title": "West Facility Kitchen – Electrical",
+      "description": "DLR - West Facility Kitchen - Electrical: Install new receptacle for kitchen equipment. Status: Plan Review.",
+      "location": "1313 S Harbor Blvd, Anaheim",
+      "tags": ["Backstage", "Kitchen", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03525",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03526",
+      "date": "2026-07-30",
+      "title": "Matterhorn Bobsleds – Electrical (Sump Pump)",
+      "description": "DLR - Matterhorn Bobsleds - Electrical: Install disconnect switch for sump pump controller. Status: Plan Review.",
+      "location": "Disneyland – Matterhorn Bobsleds",
+      "tags": ["Disneyland", "Matterhorn", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03526",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03476",
+      "date": "2026-07-28",
+      "title": "Plaza Inn – Tenant Improvement (Dishwasher & Drain)",
+      "description": "DLR - Plaza Inn - Tenant Improvement: Replace steam dishwasher and provide new trench drain. With mechanical. Status: Plan Review.",
+      "location": "Disneyland – Plaza Inn",
+      "tags": ["Disneyland", "Plaza Inn", "Tenant Improvement"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03476",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03478",
+      "date": "2026-07-28",
+      "title": "Westsider Grill / Dressing Rooms – Tenant Improvement",
+      "description": "DLR - Westsider Grill/Dressing Rooms - Tenant Improvement: 1,125 sq ft interior remodel at second floor. Status: Plan Review.",
+      "location": "Disneyland – Westsider Grill area",
+      "tags": ["Disneyland", "Tenant Improvement", "Interior"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03478",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    }
+  ]
+}
