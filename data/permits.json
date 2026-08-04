@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-02T22:50:00Z",
+  "last_updated": "2026-08-04T10:00:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-03580",
+      "date": "2026-08-03",
+      "title": "Mad Tea Party – Tenant Improvement (Prop Post & Lanterns)",
+      "description": "DLR - Mad Tea Party - Tenant Improvement: Install new post with electrical for prop. Install new OFCI lanterns. Provide power and data to network enclosures. Status: Plan Review. Valuation: $6,784.",
+      "location": "Disneyland – Mad Tea Party, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Mad Tea Party", "Tenant Improvement", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03580",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03580",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03536",
       "date": "2026-07-31",
