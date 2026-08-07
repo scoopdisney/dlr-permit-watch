@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-08-06T10:00:00Z",
+  "last_updated": "2026-08-07T10:00:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-03669",
+      "date": "2026-08-06",
+      "title": "DCA Cars Land – Halloween Overlay (Garland, Cone Figures & Wreath)",
+      "description": "DCA - Cars Land - Halloween Overlay: Install (6) overhead garland, (2) cone showset figures and (1) wreath attached to Courthouse. Status: Plan Review.",
+      "location": "Disney California Adventure – Cars Land, 745 W Katella Ave, Anaheim",
+      "tags": ["DCA", "Cars Land", "Halloween", "Overlay", "Seasonal"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03669",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03669",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03668",
+      "date": "2026-08-06",
+      "title": "Rise of the Resistance – Plumbing (Domestic Water Piping)",
+      "description": "DLR - Rise of the Resistance - Plumbing: Remove existing domestic water piping and install new. Status: Plan Review.",
+      "location": "Disneyland – Star Wars: Rise of the Resistance, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Rise of the Resistance", "Star Wars", "Plumbing"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03668",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03668",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "sgn2026-00118",
+      "date": "2026-08-06",
+      "title": "DCA Cars Land – Halloween Overlay Signs",
+      "description": "DCA - Cars Land - Halloween Overlay: Install (3) non-illuminated signs to existing structures. (install 08-09-26 thru 11-06-26). Status: Plan Review.",
+      "location": "Disney California Adventure – Cars Land, 745 W Katella Ave, Anaheim",
+      "tags": ["DCA", "Cars Land", "Halloween", "Sign", "Seasonal"],
+      "type": "Sign Permit – Plan Review",
+      "permit_number": "SGN2026-00118",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/SGN2026-00118",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03642",
       "date": "2026-08-05",
