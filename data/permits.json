@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-08T10:00:00Z",
+  "last_updated": "2026-08-11T10:00:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-03716",
+      "date": "2026-08-10",
+      "title": "Main Street Cinema / BLDG #1305 – Electrical (Tenant Improvement Support)",
+      "description": "Electrical to support DLR - Main Street Cinema/BLDG #1305 - Tenant Improvement. REF:BLD2025-04067. Status: Ready to Issue.",
+      "location": "Disneyland – Main Street Cinema, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Main Street", "Main Street Cinema", "Electrical", "Tenant Improvement"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-03716",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03716",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03693",
       "date": "2026-08-07",
