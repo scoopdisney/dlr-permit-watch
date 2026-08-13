@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-08-13T07:05:13Z",
+  "last_updated": "2026-08-13T10:15:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-03768",
+      "date": "2026-08-12",
+      "title": "Miller Warehouse – Electrical (New Circuits for Workstations)",
+      "description": "DLR - Miller Warehouse - Electrical: Install (3) new circuits for new workstations. Status: Ready to Issue.",
+      "location": "DLR Miller Warehouse – 1200 N Miller St, Anaheim",
+      "tags": ["Disneyland Resort", "Miller Warehouse", "Electrical", "Backstage"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-03768",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03768",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03767",
+      "date": "2026-08-12",
+      "title": "Red Rose Taverne – Exterior Interim Boilers",
+      "description": "DLR - Red Rose Taverne - Miscellaneous: Install exterior interim boilers. With electrical and plumbing. (Related: BLD2026-03766). Status: Plan Review.",
+      "location": "Disneyland – Red Rose Taverne, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Red Rose Taverne", "Boilers", "Mechanical", "Plumbing", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03767",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03767",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03766",
+      "date": "2026-08-12",
+      "title": "Red Rose Taverne – Tenant Improvement (Boiler System Replacement)",
+      "description": "DLR - Red Rose Taverne - Tenant Improvement: Remove and replace space heating and water boiler system on new concrete pad. With mechanical, electrical and plumbing. Status: Plan Review.",
+      "location": "Disneyland – Red Rose Taverne, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Red Rose Taverne", "Tenant Improvement", "Boilers", "Mechanical", "Plumbing", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03766",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03766",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03758",
+      "date": "2026-08-12",
+      "title": "Grand Californian Hotel – Ground Level Tenant Improvement Support (Plumbing & Mechanical)",
+      "description": "Plumbing and Mechanical to support GCH - Ground Level - Tenant Improvement. REF BLD2026-02496. Status: Issued.",
+      "location": "Grand Californian Hotel – 1600 S Disneyland Dr, Anaheim",
+      "tags": ["Grand Californian", "Tenant Improvement", "Plumbing", "Mechanical"],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-03758",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03758",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03752",
+      "date": "2026-08-12",
+      "title": "Oga's Cantina – Plumbing (Tenant Improvement Support)",
+      "description": "Plumbing to support DLR - Oga's Cantina/BLDG #10060 - Tenant Improvement. REF BLD2026-01253. Status: Issued.",
+      "location": "Disneyland – Oga's Cantina, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Oga's Cantina", "Star Wars", "Plumbing", "Tenant Improvement"],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-03752",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03752",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03719",
       "date": "2026-08-11",
