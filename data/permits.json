@@ -1,1 +1,45 @@
-PLACEHOLDER
+{
+  "last_updated": "2026-08-15T07:00:00Z",
+  "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
+  "permits": [
+    {
+      "id": "bld2026-03791",
+      "date": "2026-08-13",
+      "title": "Main Street / Block 200 – Mechanical (Tenant Improvement Support)",
+      "description": "Mechanical to support DLR - Main Street/Block 200 - Tenant Improvement. REF BLD2026-03059. Status: Ready to Issue.",
+      "location": "Disneyland – Main Street / Block 200, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Main Street", "Mechanical", "Tenant Improvement"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-03791",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03791",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03790",
+      "date": "2026-08-13",
+      "title": "Hungry Bear BBQ – Plumbing (Tenant Improvement Support)",
+      "description": "Plumbing to support DLR - Hungry Bear BBQ/BLDG #4200 - Tenant Improvement. REF BLD2026-01026. Status: Ready to Issue.",
+      "location": "Disneyland – Hungry Bear BBQ, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Hungry Bear BBQ", "Plumbing", "Tenant Improvement"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-03790",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03790",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03789",
+      "date": "2026-08-13",
+      "title": "Indiana Jones Adventure – Electrical (Door Controllers)",
+      "description": "DLR - Indiana Jones Adventure - Electrical: Replace (2) door controllers and associated equipment. Status: Plan Review.",
+      "location": "Disneyland – Indiana Jones Adventure, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Indiana Jones Adventure", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03789",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03789",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    }
+  ]
+}
