@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-18T10:00:00Z",
+  "last_updated": "2026-08-19T07:00:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-03847",
+      "date": "2026-08-17",
+      "title": "DLR – Confidential Permit (Magic Way)",
+      "description": "DLR - CONF. Status: Plan Review.",
+      "location": "1150 W Magic Way, Anaheim",
+      "tags": ["Disneyland Resort", "Confidential", "Plan Review"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03847",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03847",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03845",
       "date": "2026-08-17",
@@ -446,7 +459,7 @@
     },
     {
       "id": "bld2026-03526",
-      "date": "2026-07-28",
+      "date": "2026-07-30",
       "title": "Matterhorn Bobsleds – Electrical (Sump Pump)",
       "description": "DLR - Matterhorn Bobsleds - Electrical: Install disconnect switch for sump pump controller. Status: Plan Review.",
       "location": "Disneyland – Matterhorn Bobsleds",
@@ -459,7 +472,7 @@
     },
     {
       "id": "bld2026-03476",
-      "date": "2026-07-28",
+      "date": "2026-07-30",
       "title": "Plaza Inn – Tenant Improvement (Dishwasher & Drain)",
       "description": "DLR - Plaza Inn - Tenant Improvement: Replace steam dishwasher and provide new trench drain. With mechanical. Status: Plan Review.",
       "location": "Disneyland – Plaza Inn",
@@ -472,7 +485,7 @@
     },
     {
       "id": "bld2026-03478",
-      "date": "2026-07-28",
+      "date": "2026-07-30",
       "title": "Westsider Grill / Dressing Rooms – Tenant Improvement",
       "description": "DLR - Westsider Grill/Dressing Rooms - Tenant Improvement: 1,125 sq ft interior remodel at second floor. Status: Plan Review.",
       "location": "Disneyland – Westsider Grill area",
