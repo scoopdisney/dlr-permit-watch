@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-08-19T10:10:00Z",
+  "last_updated": "2026-08-21T10:10:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-03920",
+      "date": "2026-08-20",
+      "title": "Outdoor Vending – Tenant Improvement (Ice Machine Replacement)",
+      "description": "DLR - Outdoor Vending - Tenant Improvement: Remove and replace ice machine and frame. With plumbing and electrical. Status: Plan Review.",
+      "location": "Disneyland Resort – Outdoor Vending, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "Outdoor Vending", "Tenant Improvement", "Plumbing", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03920",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03920",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03900",
+      "date": "2026-08-20",
+      "title": "Building 100 – Tenant Improvement (Baler Relocation)",
+      "description": "DLR - Building 100 - Tenant Improvement: Relocate baler inside warehouse and electrical. Status: Plan Review.",
+      "location": "Disneyland Resort – Building 100, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "Building 100", "Warehouse", "Tenant Improvement", "Electrical", "Backstage"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-03900",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03900",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "sgn2026-00119",
+      "date": "2026-08-20",
+      "title": "Old Administration Building – Illuminated Signs",
+      "description": "DLR - Old Administration Building - Install (2) illuminated signs on existing awnings and (2) illuminated wall sign. Status: Plan Review.",
+      "location": "Disneyland Resort – Old Administration Building, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "Old Administration Building", "Sign", "Illuminated"],
+      "type": "Sign Permit – Plan Review",
+      "permit_number": "SGN2026-00119",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/SGN2026-00119",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03867",
       "date": "2026-08-18",
