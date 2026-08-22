@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-08-21T10:10:00Z",
+  "last_updated": "2026-08-22T07:15:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-00931",
+      "date": "2026-08-18",
+      "title": "East Esplanade – Demolition (Ticket Booth 1)",
+      "description": "DLR - East Esplanade - Demolition: 673 sq ft ticket booth with foundation to be removed and utilities to be capped. Status: Ready to Issue. (Originally submitted March 4, 2026).",
+      "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "East Esplanade", "Demolition", "Ticket Booth", "Eastern Gateway"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-00931",
+      "document": null,
+      "source": "https://www.themeparkiq.com/blog/disneyland/disneyland-clears-all-four-east-esplanade-ticket-booths-for-demo",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-00932",
+      "date": "2026-08-18",
+      "title": "East Esplanade – Demolition (Ticket Booth 2)",
+      "description": "DLR - East Esplanade - Demolition: 673 sq ft ticket booth with foundation to be removed and utilities to be capped. Status: Ready to Issue. (Originally submitted March 4, 2026).",
+      "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "East Esplanade", "Demolition", "Ticket Booth", "Eastern Gateway"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-00932",
+      "document": null,
+      "source": "https://www.themeparkiq.com/blog/disneyland/disneyland-clears-all-four-east-esplanade-ticket-booths-for-demo",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-00933",
+      "date": "2026-08-18",
+      "title": "East Esplanade – Demolition (Ticket Booth 3)",
+      "description": "DLR - East Esplanade - Demolition: 673 sq ft ticket booth with foundation to be removed and utilities to be capped. Status: Ready to Issue. (Originally submitted March 4, 2026).",
+      "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "East Esplanade", "Demolition", "Ticket Booth", "Eastern Gateway"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-00933",
+      "document": null,
+      "source": "https://www.themeparkiq.com/blog/disneyland/disneyland-clears-all-four-east-esplanade-ticket-booths-for-demo",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-00934",
+      "date": "2026-08-18",
+      "title": "East Esplanade – Demolition (Ticket Booth 4)",
+      "description": "DLR - East Esplanade - Demolition: 673 sq ft ticket booth with foundation to be removed and utilities to be capped. Status: Ready to Issue. (Originally submitted March 4, 2026).",
+      "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "East Esplanade", "Demolition", "Ticket Booth", "Eastern Gateway"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-00934",
+      "document": null,
+      "source": "https://www.themeparkiq.com/blog/disneyland/disneyland-clears-all-four-east-esplanade-ticket-booths-for-demo",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-03920",
       "date": "2026-08-20",
