@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-08-22T07:15:00Z",
+  "last_updated": "2026-08-27T10:15:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04009",
+      "date": "2026-08-26",
+      "title": "Tomorrowland – Star Tours Tenant Improvement (LED Facade Lighting)",
+      "description": "DLR - Tomorrowland - Star Tours - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade. Status: Plan Review.",
+      "location": "Disneyland – Tomorrowland / Star Tours, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Tomorrowland", "Star Tours", "Tenant Improvement", "Lighting", "LED"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04009",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04009",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04010",
+      "date": "2026-08-26",
+      "title": "Tomorrowland – Buzz Lightyear Astro Blasters Tenant Improvement (LED Facade Lighting)",
+      "description": "DLR - Tomorrowland - Buzz Lightyear Astro Blasters - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade. Status: Plan Review.",
+      "location": "Disneyland – Tomorrowland / Buzz Lightyear Astro Blasters, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland", "Tomorrowland", "Buzz Lightyear", "Tenant Improvement", "Lighting", "LED"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04010",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04010",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04007",
+      "date": "2026-08-26",
+      "title": "Ramone's House of Body Art – Mechanical & Plumbing (Tenant Improvement Support)",
+      "description": "Mechanical and Plumbing to support DCA - Ramone's House of Body Art - Tenant Improvement. REF:BLD2026-03049. Status: Ready to Issue.",
+      "location": "Disney California Adventure – Cars Land / Ramone's House of Body Art, 745 W Katella Ave, Anaheim",
+      "tags": ["DCA", "Cars Land", "Ramone's", "Mechanical", "Plumbing", "Tenant Improvement"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04007",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04007",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04004",
+      "date": "2026-08-26",
+      "title": "Aunt Cass Cafe – Mechanical & Plumbing (Tenant Improvement Support)",
+      "description": "Mechanical and Plumbing to support DCA - Aunt Cass Cafe - Tenant Improvement. REF:BLD2026-03051. Status: Ready to Issue.",
+      "location": "Disney California Adventure – Aunt Cass Cafe, 777 W Katella Ave, Anaheim",
+      "tags": ["DCA", "Aunt Cass Cafe", "Mechanical", "Plumbing", "Tenant Improvement"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04004",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04004",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03999",
+      "date": "2026-08-26",
+      "title": "East Esplanade – Electrical (Site Work Support)",
+      "description": "Electrical to support DLR - East Esplanade - Site Work. REF:BLD2025-06587. Status: Ready to Issue.",
+      "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
+      "tags": ["Disneyland Resort", "East Esplanade", "Electrical", "Site Work", "Eastern Gateway"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-03999",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03999",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-00931",
       "date": "2026-08-18",
