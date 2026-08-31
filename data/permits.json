@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-08-29T10:05:00Z",
+  "last_updated": "2026-08-31T10:00:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04007",
+      "date": "2026-08-26",
+      "title": "Ramone's House of Body Art – Mechanical & Plumbing Support",
+      "description": "Mechanical and Plumbing to support DCA - Ramone's House of Body Art - Tenant Improvement. REF:BLD2026-03049. Status: Issued.",
+      "location": "Disney California Adventure – Ramone's House of Body Art (BLDG #807), 745 W Katella Ave, Anaheim",
+      "tags": ["DCA", "Ramone's House of Body Art", "Tenant Improvement", "Mechanical", "Plumbing", "Cars Land"],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-04007",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04007",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04004",
+      "date": "2026-08-26",
+      "title": "Aunt Cass Cafe – Mechanical & Plumbing Support",
+      "description": "Mechanical and Plumbing to support DCA - Aunt Cass Cafe - Tenant Improvement. REF:BLD2026-03051. Status: Issued.",
+      "location": "Disney California Adventure – Aunt Cass Cafe (BLDG #415-A), 777 W Katella Ave, Anaheim",
+      "tags": ["DCA", "Aunt Cass Cafe", "Tenant Improvement", "Mechanical", "Plumbing", "Pixar Pier"],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-04004",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04004",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-03999",
+      "date": "2026-08-26",
+      "title": "East Esplanade – Electrical for Site Work",
+      "description": "Electrical to support DLR - East Esplanade - Site Work. REF:BLD2025-06587. Status: Ready to Issue.",
+      "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "East Esplanade", "Electrical", "Site Work", "Eastern Gateway"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-03999",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-03999",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-04073",
       "date": "2026-08-27",
