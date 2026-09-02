@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-01T10:14:16Z",
+  "last_updated": "2026-09-02T10:05:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04173",
+      "date": "2026-09-01",
+      "title": "Winnie the Pooh – Electrical Duplex Receptacle",
+      "description": "DLR - Winnie the Pooh - Electrical: Install duplex receptacle feeding from emergency panel. Status: Plan Review.",
+      "location": "Disneyland Park – Winnie the Pooh (BLDG #4400), 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "Winnie the Pooh", "Electrical", "Critter Country"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04173",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04173",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-04137",
       "date": "2026-08-31",
