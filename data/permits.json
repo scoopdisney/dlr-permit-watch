@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-02T10:05:00Z",
+  "last_updated": "2026-09-03T10:14:00Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04192",
+      "date": "2026-09-02",
+      "title": "Main Street / Town Square – Electrical Pin and Sleeve Receptacle",
+      "description": "DLR - Main Street/Town Square - Electrical: Install new pin and sleeve receptacle. Status: Plan Review.",
+      "location": "Disneyland Park – Main Street / Town Square, 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "Main Street", "Town Square", "Electrical"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04192",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04192",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04191",
+      "date": "2026-09-02",
+      "title": "Plaza Inn – Plumbing Support",
+      "description": "Plumbing to support DLR - Plaza Inn - Tenant Improvement. REF BLD2026-03476. Status: Ready to Issue.",
+      "location": "Disneyland Park – Plaza Inn (BLDG #1001), 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "Plaza Inn", "Tenant Improvement", "Plumbing", "Main Street"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04191",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04191",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-04173",
       "date": "2026-09-01",
