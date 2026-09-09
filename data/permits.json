@@ -1,14 +1,40 @@
 {
-  "last_updated": "2026-09-05T10:00:00Z",
+  "last_updated": "2026-09-09T10:02:55Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04250",
+      "date": "2026-09-08",
+      "title": "Avengers Campus / Guest RR – Mechanical & Plumbing Support",
+      "description": "Mechanical and Plumbing to support DCA - Avengers Campus/Guest RR - Tenant Improvement. REF:BLD2026-03264. Status: Issued.",
+      "location": "Disney California Adventure – Avengers Campus / Guest RR (BLDG #701), 1515 S Harbor Blvd, Anaheim",
+      "tags": [
+        "DCA",
+        "Avengers Campus",
+        "Guest RR",
+        "Tenant Improvement",
+        "Mechanical",
+        "Plumbing"
+      ],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-04250",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04250",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-04242",
       "date": "2026-09-04",
       "title": "Grizzly Peak – Mechanical & Plumbing Support",
       "description": "Mechanical and Plumbing to support DCA - Grizzly Peak - Tenant Improvement. REF:BLD2026-03182. Status: Ready to Issue.",
       "location": "Disney California Adventure – Grizzly Peak (BLDG #438), 777 W Katella Ave, Anaheim",
-      "tags": ["DCA", "Grizzly Peak", "Tenant Improvement", "Mechanical", "Plumbing"],
+      "tags": [
+        "DCA",
+        "Grizzly Peak",
+        "Tenant Improvement",
+        "Mechanical",
+        "Plumbing"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-04242",
       "document": null,
@@ -21,7 +47,12 @@
       "title": "North Service Area / BLDG #100 – Mechanical Support",
       "description": "Mechanical to support DLR - North Service Area/BLDG #100 - Tenant Improvement. REF:BLD2026-02735. Status: Ready to Issue.",
       "location": "Disneyland Resort – North Service Area (BLDG #100 / 9071), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "North Service Area", "Tenant Improvement", "Mechanical"],
+      "tags": [
+        "DLR",
+        "North Service Area",
+        "Tenant Improvement",
+        "Mechanical"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-04239",
       "document": null,
@@ -34,7 +65,13 @@
       "title": "Plaza Inn – Electrical Support",
       "description": "Electrical to support DLR - Plaza Inn - Tenant Improvement. REF:BLD2026-03476. Status: Issued.",
       "location": "Disneyland Park – Plaza Inn (BLDG #1001), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Plaza Inn", "Tenant Improvement", "Electrical", "Main Street"],
+      "tags": [
+        "DLR",
+        "Plaza Inn",
+        "Tenant Improvement",
+        "Electrical",
+        "Main Street"
+      ],
       "type": "Building Permit – Issued",
       "permit_number": "BLD2026-04230",
       "document": null,
@@ -47,7 +84,12 @@
       "title": "Main Street / Town Square – Electrical Pin and Sleeve Receptacle",
       "description": "DLR - Main Street/Town Square - Electrical: Install new pin and sleeve receptacle. Status: Plan Review.",
       "location": "Disneyland Park – Main Street / Town Square, 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Main Street", "Town Square", "Electrical"],
+      "tags": [
+        "DLR",
+        "Main Street",
+        "Town Square",
+        "Electrical"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04192",
       "document": null,
@@ -60,7 +102,13 @@
       "title": "Plaza Inn – Plumbing Support",
       "description": "Plumbing to support DLR - Plaza Inn - Tenant Improvement. REF BLD2026-03476. Status: Ready to Issue.",
       "location": "Disneyland Park – Plaza Inn (BLDG #1001), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Plaza Inn", "Tenant Improvement", "Plumbing", "Main Street"],
+      "tags": [
+        "DLR",
+        "Plaza Inn",
+        "Tenant Improvement",
+        "Plumbing",
+        "Main Street"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-04191",
       "document": null,
@@ -73,7 +121,12 @@
       "title": "Winnie the Pooh – Electrical Duplex Receptacle",
       "description": "DLR - Winnie the Pooh - Electrical: Install duplex receptacle feeding from emergency panel. Status: Plan Review.",
       "location": "Disneyland Park – Winnie the Pooh (BLDG #4400), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Winnie the Pooh", "Electrical", "Critter Country"],
+      "tags": [
+        "DLR",
+        "Winnie the Pooh",
+        "Electrical",
+        "Critter Country"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04173",
       "document": null,
@@ -86,7 +139,12 @@
       "title": "Finding Nemo – Scene Protection Tenant Improvement",
       "description": "DLR - Finding Nemo/BLDG #8900 - Tenant Improvement: Install protection at (6) separate scene locations. Status: Plan Review.",
       "location": "Disneyland Park – Finding Nemo (BLDG #8900), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Finding Nemo", "Tenant Improvement", "Scene Protection"],
+      "tags": [
+        "DLR",
+        "Finding Nemo",
+        "Tenant Improvement",
+        "Scene Protection"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04137",
       "document": null,
@@ -99,7 +157,13 @@
       "title": "Flo's V8 Cafe – Electrical Support",
       "description": "Electrical to support DCA - Flo's V8 Cafe - Tenant Improvement. REF:BLD2026-02268. Status: Ready to Issue.",
       "location": "Disney California Adventure – Flo's V8 Cafe (BLDG #806), 745 W Katella Ave, Anaheim",
-      "tags": ["DCA", "Flo's V8 Cafe", "Tenant Improvement", "Electrical", "Cars Land"],
+      "tags": [
+        "DCA",
+        "Flo's V8 Cafe",
+        "Tenant Improvement",
+        "Electrical",
+        "Cars Land"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-04131",
       "document": null,
@@ -112,7 +176,13 @@
       "title": "Goofy's Kitchen – Electrical Support",
       "description": "Electrical to support DLH - Goofy's Kitchen - Tenant Improvement. REF BLD2026-02690. Status: Ready to Issue.",
       "location": "Disneyland Hotel – Goofy's Kitchen, 1150 W Magic Way, Anaheim",
-      "tags": ["DLH", "Disneyland Hotel", "Goofy's Kitchen", "Tenant Improvement", "Electrical"],
+      "tags": [
+        "DLH",
+        "Disneyland Hotel",
+        "Goofy's Kitchen",
+        "Tenant Improvement",
+        "Electrical"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-04118",
       "document": null,
@@ -125,7 +195,12 @@
       "title": "Grizzly Peak – Electrical Support",
       "description": "Electrical to support DCA - Grizzly Peak - Tenant Improvement. REF BLD2026-02301. Status: Ready to Issue.",
       "location": "Disney California Adventure – Grizzly Peak (BLDG #431), 777 W Katella Ave, Anaheim",
-      "tags": ["DCA", "Grizzly Peak", "Tenant Improvement", "Electrical"],
+      "tags": [
+        "DCA",
+        "Grizzly Peak",
+        "Tenant Improvement",
+        "Electrical"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-04116",
       "document": null,
@@ -138,7 +213,14 @@
       "title": "Ramone's House of Body Art – Mechanical & Plumbing Support",
       "description": "Mechanical and Plumbing to support DCA - Ramone's House of Body Art - Tenant Improvement. REF:BLD2026-03049. Status: Issued.",
       "location": "Disney California Adventure – Ramone's House of Body Art (BLDG #807), 745 W Katella Ave, Anaheim",
-      "tags": ["DCA", "Ramone's House of Body Art", "Tenant Improvement", "Mechanical", "Plumbing", "Cars Land"],
+      "tags": [
+        "DCA",
+        "Ramone's House of Body Art",
+        "Tenant Improvement",
+        "Mechanical",
+        "Plumbing",
+        "Cars Land"
+      ],
       "type": "Building Permit – Issued",
       "permit_number": "BLD2026-04007",
       "document": null,
@@ -151,7 +233,14 @@
       "title": "Aunt Cass Cafe – Mechanical & Plumbing Support",
       "description": "Mechanical and Plumbing to support DCA - Aunt Cass Cafe - Tenant Improvement. REF:BLD2026-03051. Status: Issued.",
       "location": "Disney California Adventure – Aunt Cass Cafe (BLDG #415-A), 777 W Katella Ave, Anaheim",
-      "tags": ["DCA", "Aunt Cass Cafe", "Tenant Improvement", "Mechanical", "Plumbing", "Pixar Pier"],
+      "tags": [
+        "DCA",
+        "Aunt Cass Cafe",
+        "Tenant Improvement",
+        "Mechanical",
+        "Plumbing",
+        "Pixar Pier"
+      ],
       "type": "Building Permit – Issued",
       "permit_number": "BLD2026-04004",
       "document": null,
@@ -164,7 +253,13 @@
       "title": "East Esplanade – Electrical for Site Work",
       "description": "Electrical to support DLR - East Esplanade - Site Work. REF:BLD2025-06587. Status: Ready to Issue.",
       "location": "Disneyland Resort – East Esplanade, 1509 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "East Esplanade", "Electrical", "Site Work", "Eastern Gateway"],
+      "tags": [
+        "DLR",
+        "East Esplanade",
+        "Electrical",
+        "Site Work",
+        "Eastern Gateway"
+      ],
       "type": "Building Permit – Ready to Issue",
       "permit_number": "BLD2026-03999",
       "document": null,
@@ -177,7 +272,14 @@
       "title": "Boardwalk Pizza – Tenant Improvement (Exterior Ductwork & Make-up Air)",
       "description": "DCA - Boardwalk Pizza/BLDG #521 - Tenant Improvement: Remove portion of exterior wall to install new exterior ductwork for new make-up air unit on new concrete pad. With mechanical and electrical. Status: Plan Review.",
       "location": "Disney California Adventure – Boardwalk Pizza (BLDG #521), 1616 S Disneyland Dr, Anaheim",
-      "tags": ["DCA", "Boardwalk Pizza", "Tenant Improvement", "Mechanical", "Electrical", "Ductwork"],
+      "tags": [
+        "DCA",
+        "Boardwalk Pizza",
+        "Tenant Improvement",
+        "Mechanical",
+        "Electrical",
+        "Ductwork"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04073",
       "document": null,
@@ -190,7 +292,13 @@
       "title": "Main Street / Town Square – Halloween Pumpkin Scene Element",
       "description": "DLR - Main Street/Town Square - Halloween - Miscellaneous: Install (1) pumpkin scene element to existing concrete base. Status: Plan Review.",
       "location": "Disneyland Park – Main Street / Town Square, 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Main Street", "Town Square", "Halloween", "Seasonal"],
+      "tags": [
+        "DLR",
+        "Main Street",
+        "Town Square",
+        "Halloween",
+        "Seasonal"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04068",
       "document": null,
@@ -203,7 +311,12 @@
       "title": "Matterhorn Bobsleds – Electrical Fixture Replacement",
       "description": "DF - Matterhorn Bobsleds - Electrical: Replacement of existing fixtures. Status: Plan Review.",
       "location": "Disneyland Park – Matterhorn Bobsleds (BLDG #7600), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Matterhorn", "Electrical", "Refurbishment"],
+      "tags": [
+        "DLR",
+        "Matterhorn",
+        "Electrical",
+        "Refurbishment"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04041",
       "document": null,
@@ -216,7 +329,13 @@
       "title": "Disneyland Hotel Cooling Tower – Screening, Stairs & Pads",
       "description": "DLH - Cooling Tower - Tenant Improvement: Install new screening, access stairs, door and concrete landing pads at existing chiller plant. With electrical. Status: Plan Review.",
       "location": "Disneyland Hotel – Cooling Tower / Chiller Plant, 1150 W Magic Way, Anaheim",
-      "tags": ["DLH", "Disneyland Hotel", "Cooling Tower", "Tenant Improvement", "Electrical"],
+      "tags": [
+        "DLH",
+        "Disneyland Hotel",
+        "Cooling Tower",
+        "Tenant Improvement",
+        "Electrical"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04014",
       "document": null,
@@ -229,7 +348,14 @@
       "title": "Buzz Lightyear Astro Blasters – Facade LED Lighting Upgrade",
       "description": "DLR - Tomorrowland - Buzz Lightyear Astro Blasters - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade. Status: Plan Review.",
       "location": "Disneyland Park – Tomorrowland – Buzz Lightyear Astro Blasters (BLDG #8101), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Tomorrowland", "Buzz Lightyear", "LED", "Lighting", "Facade"],
+      "tags": [
+        "DLR",
+        "Tomorrowland",
+        "Buzz Lightyear",
+        "LED",
+        "Lighting",
+        "Facade"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04010",
       "document": null,
@@ -242,7 +368,14 @@
       "title": "Star Tours – Facade LED Lighting Upgrade",
       "description": "DLR - Tomorrowland - Star Tours - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade. Status: Plan Review.",
       "location": "Disneyland Park – Tomorrowland – Star Tours (BLDG #8201), 1313 S Harbor Blvd, Anaheim",
-      "tags": ["DLR", "Tomorrowland", "Star Tours", "LED", "Lighting", "Facade"],
+      "tags": [
+        "DLR",
+        "Tomorrowland",
+        "Star Tours",
+        "LED",
+        "Lighting",
+        "Facade"
+      ],
       "type": "Building Permit – Plan Review",
       "permit_number": "BLD2026-04009",
       "document": null,
