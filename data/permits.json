@@ -1,1 +1,104 @@
-PLACEHOLDER
+{
+  "last_updated": "2026-09-10T10:14:00Z",
+  "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
+  "permits": [
+    {
+      "id": "bld2026-04324",
+      "date": "2026-09-09",
+      "title": "San Francisco Workplace / BLDG #429 – Chain Link Storage Enclosure",
+      "description": "DCA - San Francisco Workplace/BLDG #429 - Accessory Building: 15 ln ft x 10'6\" ft tall chain link fence with 49 sq ft cover to create attached storage enclosure. With electrical. Status: Plan Review.",
+      "location": "Disney California Adventure – San Francisco Workplace (BLDG #429), 777 W Katella Ave, Anaheim",
+      "tags": [
+        "DCA",
+        "San Francisco",
+        "Accessory Building",
+        "Storage",
+        "Fence",
+        "Electrical"
+      ],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04324",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04324",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04316",
+      "date": "2026-09-09",
+      "title": "Flo's V8 Cafe – Mechanical & Plumbing Support",
+      "description": "Mechanical and Plumbing to support DCA - Flo's V8 Cafe - Tenant Improvement. REF:BLD2026-02268. Status: Issued.",
+      "location": "Disney California Adventure – Flo's V8 Cafe (BLDG #806), 745 W Katella Ave, Anaheim",
+      "tags": [
+        "DCA",
+        "Flo's V8 Cafe",
+        "Tenant Improvement",
+        "Mechanical",
+        "Plumbing",
+        "Cars Land"
+      ],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-04316",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04316",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04317",
+      "date": "2026-09-09",
+      "title": "Westsider Grill / Dressing Rooms – Plumbing & Mechanical Support",
+      "description": "Plumbing and Mechanical to support DLR - Westsider Grill/Dressing Rooms - Tenant Improvement. REF BLD2026-03478. Status: Ready to Issue.",
+      "location": "Disneyland Resort – Westsider Grill / Dressing Rooms (BLDG #9010), 1313 S Harbor Blvd, Anaheim",
+      "tags": [
+        "DLR",
+        "Westsider Grill",
+        "Dressing Rooms",
+        "Tenant Improvement",
+        "Plumbing",
+        "Mechanical"
+      ],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04317",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04317",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04318",
+      "date": "2026-09-09",
+      "title": "Westsider Grill / Dressing Rooms – Electrical Support",
+      "description": "Electrical to support DLR - Westsider Grill/Dressing Rooms - Tenant Improvement. REF:BLD2026-03478. Status: Ready to Issue.",
+      "location": "Disneyland Resort – Westsider Grill / Dressing Rooms (BLDG #9010), 1313 S Harbor Blvd, Anaheim",
+      "tags": [
+        "DLR",
+        "Westsider Grill",
+        "Dressing Rooms",
+        "Tenant Improvement",
+        "Electrical"
+      ],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04318",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04318",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04293",
+      "date": "2026-09-09",
+      "title": "Downtown Disney Building CC – Plumbing Support",
+      "description": "Plumbing to support DTD - Building CC - Tenant Improvement. REF BLD2026-03047. Status: Ready to Issue.",
+      "location": "Downtown Disney – Building CC, 1545 S Disneyland Dr, Anaheim",
+      "tags": [
+        "DTD",
+        "Downtown Disney",
+        "Building CC",
+        "Tenant Improvement",
+        "Plumbing"
+      ],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04293",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04293",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    }
+  ]
+}
