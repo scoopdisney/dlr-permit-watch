@@ -1,7 +1,58 @@
-{
-  "last_updated": "2026-09-10T10:14:00Z",
+{"last_updated": "2026-09-11T10:03:41Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04370",
+      "date": "2026-09-10",
+      "title": "West Service Area / BOH – Equipment Shed Demolition",
+      "description": "DLR - West Service Area/BOH - Demolition: 105 sq ft equipment shed to be demolished with utilities to be capped and foundation to be removed. Status: Plan Review.",
+      "location": "Disneyland Resort – West Service Area / BOH (BLDG #2501), 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "West Service Area", "BOH", "Demolition", "Equipment Shed"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04370",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04370",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04369",
+      "date": "2026-09-10",
+      "title": "Grand Californian Hotel – Redwood Pool Guardrail & Grab Bars",
+      "description": "GCH - Redwood Pool - Miscellaneous: Install guardrail and grab bars at pool slide platform. New embedment for umbrella. Status: Plan Review.",
+      "location": "Disney's Grand Californian Hotel – Redwood Pool, 1600 S Disneyland Dr, Anaheim",
+      "tags": ["GCH", "Grand Californian", "Redwood Pool", "Pool", "Guardrail", "Miscellaneous"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04369",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04369",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04367",
+      "date": "2026-09-10",
+      "title": "DLR – Confidential (Building 8301)",
+      "description": "DLR - CONF. Status: Plan Review. Address indicates Building 8301.",
+      "location": "Disneyland Resort (BLDG #8301), 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "Confidential", "CONF"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04367",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04367",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04340",
+      "date": "2026-09-10",
+      "title": "Pixar Place Hotel – Mechanical Support for Tenant Improvement",
+      "description": "Mechanical to support PPH - Tenant Improvement. REF BLD2025-05910. Status: Issued.",
+      "location": "Pixar Place Hotel, 1717 S Disneyland Dr, Anaheim",
+      "tags": ["PPH", "Pixar Place Hotel", "Tenant Improvement", "Mechanical"],
+      "type": "Building Permit – Issued",
+      "permit_number": "BLD2026-04340",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04340",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-04324",
       "date": "2026-09-09",
