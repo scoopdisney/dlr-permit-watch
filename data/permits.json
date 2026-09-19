@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-09-18T10:20:00Z",
+  "last_updated": "2026-09-19T10:16:57Z",
   "source_note": "Primary sources are City of Anaheim building permits (Accela). ThemeParkIQ and news reporting used as secondary discovery. Official Anaheim ePermit portal remains the source of truth.",
   "permits": [
+    {
+      "id": "bld2026-04582",
+      "date": "2026-09-18",
+      "title": "Pixar Place Hotel – First Floor Mechanical & Plumbing Support for Tenant Improvement",
+      "description": "Mechanical and Plumbing to support PPH - First Floor - Tenant Improvement. REF:BLD2026-02951. Status: Ready to Issue.",
+      "location": "Pixar Place Hotel – First Floor, 1717 S Disneyland Dr, Anaheim",
+      "tags": ["PPH", "Pixar Place Hotel", "Tenant Improvement", "Mechanical", "Plumbing"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04582",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04582",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04578",
+      "date": "2026-09-18",
+      "title": "Club 33 – Electrical Support for Tenant Improvement",
+      "description": "Electrical to support DLR - Club 33 - Tenant Improvement. REF:BLD2026-03287. Status: Ready to Issue.",
+      "location": "Disneyland Park – Club 33 (BLDG #3117), 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "Club 33", "Tenant Improvement", "Electrical"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04578",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04578",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04577",
+      "date": "2026-09-18",
+      "title": "Pixar Place Hotel – First Floor Electrical Support for Tenant Improvement",
+      "description": "Electrical to support PPH - First Floor - Tenant Improvement. REF:BLD2026-02951. Status: Ready to Issue.",
+      "location": "Pixar Place Hotel – First Floor, 1717 S Disneyland Dr, Anaheim",
+      "tags": ["PPH", "Pixar Place Hotel", "Tenant Improvement", "Electrical"],
+      "type": "Building Permit – Ready to Issue",
+      "permit_number": "BLD2026-04577",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04577",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
+    {
+      "id": "bld2026-04567",
+      "date": "2026-09-18",
+      "title": "North Service Area – Remove Exterior Cooling Tower System",
+      "description": "DLR - North Service Area - Tenant Improvement: Remove exterior cooling tower system and associated structural supports, electrical and plumbing with foundation to remain. Status: Plan Review.",
+      "location": "Disneyland Resort – North Service Area (BLDG #9084), 1313 S Harbor Blvd, Anaheim",
+      "tags": ["DLR", "North Service Area", "Tenant Improvement", "Cooling Tower", "Demolition", "BOH"],
+      "type": "Building Permit – Plan Review",
+      "permit_number": "BLD2026-04567",
+      "document": null,
+      "source": "https://www.themeparkiq.com/disneyland/construction/permits/BLD2026-04567",
+      "source_name": "ThemeParkIQ / Anaheim Accela"
+    },
     {
       "id": "bld2026-04548",
       "date": "2026-09-17",
