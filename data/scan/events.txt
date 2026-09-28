@@ -1,0 +1,6 @@
+STATUS  anaheim-accela  BLD2026-03296  Issued -> Finaled  DCA - East Block Complex - Electrical: Provide dimmer circuits to socapex cabinet.
+STATUS  anaheim-accela  BLD2026-04008  Issued -> Finaled  DLR - Fantasyland Theater - Tenant Improvement: Remove (4) truss mounted speakers and shrouding and replace with (3) truss mounted speakers and shrouding. Install (2) speakers mounted on to existing side fencing.
+STATUS  anaheim-accela  BLD2026-03525  Issued -> Finaled  DLR - West Facility Kitchen - Electrical: Install new receptacle for kitchen equipment.
+STATUS  anaheim-accela  BLD2026-03668-REV02  Plan Review -> Closed  DLR - Rise of the Resistance - Plumbing: Remove existing domestic water piping and install new.
+NEW  anaheim-accela  BLD2026-04453  09/14/2026  Issued  DLR - Mickey and Friends Parking Structure - Tenant Improvement: Install electrical and anchorage to support security camera upgrades.
+STATUS  anaheim-accela  BLD2025-06370-REV01  Plan Review -> Closed  DLR - East Chiller Plant - Non Residential Addition: 90 sq ft addition to existing equipment enclosure. Replace sand filter on new concrete pad. With mechanical and electrical.
