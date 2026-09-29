@@ -1,1 +1,1 @@
-STATUS  anaheim-accela  BLD2025-04584-REV25  Plan Review -> Approved  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
+NEW  anaheim-accela  BLD2026-04727  09/25/2026  Plan Review  DCA - BOH - Electrical: 2000 amp temp switchboard on skid. (BLD2025-05348)
