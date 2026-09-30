@@ -1,0 +1,4 @@
+STATUS  anaheim-accela  BLD2026-03789  Issued -> Finaled  DLR - Indiana Jones Adventure - Electrical: Replace (2) door controllers and associated equipment.
+STATUS  anaheim-accela  BLD2025-00157-REV02  Plan Review -> Closed  DLR - Fantasyland Overall - Tenant Improvement: Add and replace audio equipment and control cabinets. Replace pull box and pour back affected concrete. With electrical.
+STATUS  anaheim-accela  BLD2026-04324  Plan Review -> Ready to Issue  DCA - San Francisco Workplace/BLDG #429 - Accessory Building: 15 ln ft x 10'6" ft tall chain link fence with 49 sq ft cover to create attached storage enclosure. With electrical.
+STATUS  anaheim-accela  BLD2026-03329  Plan Review -> Ready to Issue  DLR - Ball Cast Member Lot - Accessory Building: 44 sq ft security booth on new concrete pad. Replace curb and ramp. With electrical.
