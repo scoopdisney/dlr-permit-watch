@@ -1,13 +1,13 @@
 {
   "resort": "dlr",
-  "run_at": "2026-10-02T07:01:32Z",
+  "run_at": "2026-10-02T13:53:00Z",
   "lookback_days": 180,
   "sources": {
     "anaheim-accela": {
       "ok": true,
       "records": 336,
       "note": "36 searches across 6 streets",
-      "seconds": 74
+      "seconds": 103
     }
   }
 }
