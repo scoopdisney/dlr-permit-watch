@@ -1,1 +1,4 @@
-STATUS  anaheim-accela  BLD2026-04068  Plan Review -> Issued  DLR - Main Street/Town Square - Halloween - Miscellaneous: Install (1) pumpkin scene element to existing concrete base.
+NEW  anaheim-accela  BLD2026-04920  10/05/2026  Plan Review  DLR - Simba Parking Lot - Accessory Building: 60 sq ft security booth to replace demolished 80 sq ft booth in new location. Install security arm and gates (under 7ft). With electrical.
+NEW  anaheim-accela  BLD2025-02087-REV07  10/05/2026  Plan Review  DCA -760 Block / BLDG 761- Miscellaneous: Install new foundation, steel framing and catwalks for new one-story building. With electrical.
+NEW  anaheim-accela  BLD2026-01883-REV01  10/05/2026  Plan Review  DLH - Convention Center - Tenant Improvement: Replace evaporators and condensing units for existing walk-in freezer and (3) walk -in coolers. With mechanical and electrical.
+NEW  anaheim-accela  BLD2026-03330-REV01  10/05/2026  Plan Review  DCA - Radiator Springs Racers - Tenant Improvement: 200 sq ft service platform to service pump in existing equipment room.
