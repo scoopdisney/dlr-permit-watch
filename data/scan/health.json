@@ -1,13 +1,12 @@
 {
   "resort": "dlr",
-  "run_at": "2026-10-06T23:05:02Z",
+  "run_at": "2026-10-07T07:15:43Z",
   "lookback_days": 180,
   "sources": {
     "anaheim-accela": {
-      "ok": true,
-      "records": 333,
-      "note": "36 searches across 6 streets",
-      "seconds": 82
+      "ok": false,
+      "error": "Accela search for DISNEYLAND returned no result grid",
+      "seconds": 42
     }
   }
 }
