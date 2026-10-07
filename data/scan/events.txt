@@ -1,1 +1,3 @@
-SOURCE DOWN  anaheim-accela: Accela search for DISNEYLAND returned no result grid
+NEW  anaheim-accela  BLD2025-05291-REV04  10/06/2026  Plan Review  DTD - Building A - Non-Residential Addition: 11,407 sq ft new restaurant over existing basement level. 2,222 sq ft basement to be remodeled. 2,879 sq ft outdoor covered dining and 400 sq ft canopy over entrance.
+NEW  anaheim-accela  BLD2025-05910-REV01  10/06/2026  Plan Review  PPH - Tenant Improvement: 3,500 sq ft to create new mechanical room from existing ground floor storage. Remove air handler unit above restroom ceiling at install in mechanical room. With electrical and mechanical.
+SOURCE BACK  anaheim-accela
