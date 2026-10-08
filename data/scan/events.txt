@@ -1,0 +1,7 @@
+STATUS  anaheim-accela  BLD2026-04727  Plan Review -> Ready to Issue  DCA - BOH - Electrical: 2000 amp temp switchboard on skid. (BLD2025-05348)
+STATUS  anaheim-accela  BLD2026-04010  Plan Review -> Ready to Issue  DLR - Tomorrowland - Buzz Lightyear Astro Blasters - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade.
+STATUS  anaheim-accela  BLD2026-04009  Plan Review -> Ready to Issue  DLR - Tomorrowland - Star Tours - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade.
+STATUS  anaheim-accela  BLD2025-04584-REV25  Approved -> Closed  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
+STATUS  anaheim-accela  BLD2025-05597-REV04  Plan Review -> Closed  DLR - New Orleans Square/Train Station - New Commercial Construction: 357 sq ft breakroom building with restroom. With mechanical, electrical and plumbing.
+STATUS  anaheim-accela  BLD2026-01883-REV01  Plan Review -> Closed  DLH - Convention Center - Tenant Improvement: Replace evaporators and condensing units for existing walk-in freezer and (3) walk -in coolers. With mechanical and electrical.
+STATUS  anaheim-accela  BLD2026-03330-REV01  Plan Review -> Closed  DCA - Radiator Springs Racers - Tenant Improvement: 200 sq ft service platform to service pump in existing equipment room.
