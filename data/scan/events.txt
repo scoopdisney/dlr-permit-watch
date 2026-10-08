@@ -1,4 +1,2 @@
-STATUS  anaheim-accela  BLD2025-02087-REV07  Plan Review -> Closed  DCA -760 Block / BLDG 761- Miscellaneous: Install new foundation, steel framing and catwalks for new one-story building. With electrical.
-STATUS  anaheim-accela  BLD2025-05201-REV02  Plan Review -> Closed  DLR - Main Street - Block 600/BLDG #1300 - Tenant Improvement: Replace exiting signage, illuminated exit signs, emergency lighting and electrical fixtures.
-STATUS  anaheim-accela  BLD2026-01882-REV02  Plan Review -> Closed  DLR - Trolley Barn - Change of Use: 1,500 sq ft conversion of existing storage/maintenance space to photo-op. 76 sq ft canopy over exterior equipment anchored to new pad. With mechanical and electrical.
-STATUS  anaheim-accela  BLD2026-02690-REV03  Plan Review -> Closed  DLH - Goofy's Kitchen - Tenant Improvement: Install (4) ice machines anchored to existing concrete. With mechanical, electrical and plumbing.
+NEW  anaheim-accela  SGN2026-00135  10/07/2026  Plan Review  DLR - Jungle Cruise - Installation of (1) non-illuminated suspended sign.
+NEW  anaheim-accela  BLD2026-04964  10/07/2026  Plan Review  DLR - CONF
