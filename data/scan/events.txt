@@ -1,1 +1,2 @@
-STATUS  anaheim-accela  BLD2025-06429-REV03  Plan Review -> Closed  DCA - Avengers Campus/QSR #763 - Accessory Building: 370 sq ft covered servicing counter with a 140 sq ft walk-in cooler for new beverage kiosk. With electrical and plumbing.
+STATUS  anaheim-accela  BLD2026-03720  Plan Review -> Ready to Issue  GCH - Tenant Improvement: Infill wall openings above tubs, upgrade electrical, mechanical and plumbing fixtures in restrooms and kitchens in (48) guestrooms.
+STATUS  anaheim-accela  BLD2026-02673  Issued -> Finaled  DLR - North Service Area/ Wishes Overhaul - Tenant Improvement: Replace metal stud wall at existing laundry room, abandon in place existing roll-up door. With mechanical.
