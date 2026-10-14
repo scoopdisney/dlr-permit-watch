@@ -1,4 +1,1 @@
-NEW  anaheim-accela  BLD2026-02604-REV01  10/13/2026  Plan Review  GCH - Lobby - Tenant Improvement: Replace 31 ft. high Christmas tree structure with electrical.
-STATUS  anaheim-accela  BLD2026-04009  Ready to Issue -> Issued  DLR - Tomorrowland - Star Tours - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade.
-STATUS  anaheim-accela  BLD2026-04712  Plan Review -> Issued  DLR - Central Plaza - Holiday Film '26 - Miscellaneous: Install (2) light truss towers. (10/23/26 thru 10/26/26)
-DETAIL  anaheim-accela  BLD2026-04712  description changed: DLR - Central Plaza - Holiday Film '26 - Miscellaneous: Install (2) light truss towers. (10/23/26 thru 10/26/26)
+SOURCE DOWN  anaheim-accela: Accela search for DISNEYLAND returned no result grid
