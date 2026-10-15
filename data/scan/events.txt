@@ -1,6 +1,1 @@
-STATUS  anaheim-accela  BLD2026-04369-REV01  Plan Review -> Closed  GCH - Redwood Pool - Miscellaneous: Install guardrail and grab bars at pool slide platform. New embedment for umbrella.
-STATUS  anaheim-accela  BLD2026-03580  Issued -> Finaled  DLR - Mad Tea Party - Tenant Improvement: Install new post with electrical for prop. Install new OFCI lanterns. Provide power and data to network enclosures.
-STATUS  anaheim-accela  BLD2026-04450  Ready to Issue -> Issued  DCA - Avenger's Campus - Tenant Improvement: Install (6) electric heaters anchored at existing shade structure. Modify ceiling joists. With electrical.
-STATUS  anaheim-accela  BLD2026-04010  Ready to Issue -> Issued  DLR - Tomorrowland - Buzz Lightyear Astro Blasters - Tenant Improvement: Replace fiber optic cable with new LED based lighting fixtures at existing facade.
-STATUS  anaheim-accela  BLD2026-04708  Plan Review -> Issued  DLR - Mickey's Toontown - Mickey and Minnie's Runaway Railway - Tenant Improvement: Install electrical and anchorage to support attraction ride monitoring.
-STATUS  anaheim-accela  BLD2026-03002-REV02  Plan Review -> Closed  DCA - Wine Country Trattoria - Tenant Improvement: Install new shade sail attached to existing building and trellis.
+NEW  anaheim-accela  BLD2026-03478-REV01  10/13/2026  Plan Review  DLR - Westsider Grill/Dressing Rooms - Tenant Improvement: 1,296 sq ft interior remodel at second floor to create new offices, breakroom and dressing room. With mechanical, electrical and plumbing.
