@@ -1,2 +1,0 @@
-NEW  anaheim-accela  BLD2026-01569-REV01  10/20/2026  Plan Review  DTD - Building H/Suite 102 - Tenant Improvement: 1,200 sq ft remodel of existing beverage/food unit for new tenant. With mechanical, electrical and plumbing.
-DETAIL  anaheim-accela  BLD2026-04707  description changed: DLR - North Service Area - Tenant Improvement: Install (6) prefabricated pods at first and second floor. Pods connected to existing electrical.
