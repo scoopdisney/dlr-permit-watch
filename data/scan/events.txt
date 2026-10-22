@@ -1,1 +1,2 @@
-STATUS  anaheim-accela  BLD2026-03766  Ready to Issue -> Issued  DLR - Red Rose Taverne - Tenant Improvement: Remove and replace space heating and water boiler system on new concrete pad. With mechanical, electrical and plumbing.
+NEW  anaheim-accela  SGN2026-00133  10/02/2026  Plan Review  DLR - Harbor Rideshare - Install (17) non-illuminated pole directional signs.
+NEW  anaheim-accela  SGN2026-00134  10/07/2026  Plan Review  DLR - Lilo & Stitch Parking Lot - Install (2) illuminated post signs, (6) non-illuminated post signs and (15) non-illuminated signs on existing posts.
