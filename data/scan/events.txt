@@ -1,2 +1,3 @@
-STATUS  anaheim-accela  BLD2026-02102  Issued -> Finaled  DLR - Katella Cast Parking Lot - Miscellaneous: Install (3) gate arms and (3) card readers. Restripe parking lot for accessibility stalls. With electrical. REF BLD2026-02101
-STATUS  anaheim-accela  BLD2026-02101  Issued -> Finaled  DLR - Katella Cast Parking Lot - Miscellaneous: Install (3) gate arms and (3) card readers. Restripe parking lot for accessibility stalls. With electrical. REF BLD2026-02102
+STATUS  anaheim-accela  BLD2026-03668  Issued -> Finaled  DLR - Rise of the Resistance - Plumbing: Remove existing domestic water piping and install new.
+STATUS  anaheim-accela  BLD2026-04712  Issued -> Finaled  DLR - Central Plaza - Holiday Film '26 - Miscellaneous: Install (2) light truss towers. (10/23/26 thru 10/26/26)
+STATUS  anaheim-accela  BLD2026-05232  Plan Review -> Ready to Issue  DLR - CONF
