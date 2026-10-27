@@ -1,1 +1,2 @@
-STATUS  anaheim-accela  BLD2026-03642  Issued -> Finaled  DLR - Alice in Wonderland - Tenant Improvement: Install new post with electrical for prop. New network enclosure with underground electrical and data conduit.
+NEW  anaheim-accela  SGN2026-00130  09/23/2026  Issued  DCA - Paradise Pier - Install (1) non-illuminated sign anchored on to existing archway "Viva Navidad". (11-08-26 thru 1-06-27)
+STATUS  anaheim-accela  BLD2026-05232  Ready to Issue -> Issued  DLR - TDA/North Service Area - Electrical: Install receptacle in flex conduit for new shownet cabinet at first floor.
