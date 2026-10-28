@@ -1,0 +1,2 @@
+STATUS  anaheim-accela  BLD2026-04369  Issued -> Finaled  GCH - Redwood Pool - Miscellaneous: Install guardrail and grab bars at pool slide platform. New embedment for umbrella.
+STATUS  anaheim-accela  BLD2026-05232  Issued -> Finaled  DLR - TDA/North Service Area - Electrical: Install receptacle in flex conduit for new shownet cabinet at first floor.
