@@ -1,1 +1,2 @@
-STATUS  anaheim-accela  BLD2026-02298  Issued -> Finaled  DLR - Gadget Coaster - Tenant Improvement: Install new pre-filter, air dryer and post filter to service break and maintenance areas. Equipment to be anchored to new pads. With electrical and plumbing.
+STATUS  anaheim-accela  BLD2026-05239  Ready to Issue -> Issued  DLR - Peter Pan's Flight - Electrical: Install conduit.
+STATUS  anaheim-accela  SGN2026-00118  Issued -> Finaled  DCA - Cars Land - Halloween Overlay: Install (3) non-illuminated signs to existing structures. (install 08-09-26 thru 11-06-26)
