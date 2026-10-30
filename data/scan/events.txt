@@ -1,3 +1,1 @@
-STATUS  anaheim-accela  BLD2026-03585  Issued -> Finaled  DTD - West Area Development - Electrical: Disconnect planter power and pull from a different existing meter at new location.
-STATUS  anaheim-accela  BLD2026-03287  Issued -> Finaled  DLR - Club 33 - Tenant Improvement: Install (6) infrared heaters and show lights at existing balconies.
-NEW  anaheim-accela  BLD2025-04584-REV30  10/29/2026  Plan Review  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
+STATUS  anaheim-accela  BLD2026-02263  Issued -> Finaled  DCA - Wine Country Trattoria - Tenant Improvement: Replace portion of T-bar ceiling to accommodate replacement of dish machine anchored to existing slab. With mechanical, electrical and plumbing.
