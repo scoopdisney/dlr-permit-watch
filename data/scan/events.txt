@@ -1,0 +1,3 @@
+STATUS  anaheim-accela  SGN2026-00132  Plan Review -> Issued  DLR - It's A Small World/Holiday - Install (1) illuminated sign attached to building and (2) non-illuminated signs attached to existing arch structures.
+DETAIL  anaheim-accela  SGN2026-00132  description changed: DLR - It's A Small World/Holiday - Install (1) illuminated sign attached to building and (2) non-illuminated signs attached to existing arch structures.
+STATUS  anaheim-accela  BLD2026-02304-REV03  Plan Review -> Closed  DLR - Primeval World Diorama - Tenant Improvement: New rockwork and fall protection. Replace show lighting throughout.
