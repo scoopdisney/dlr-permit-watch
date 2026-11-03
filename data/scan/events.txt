@@ -1,9 +1,0 @@
-STATUS  anaheim-accela  BLD2026-04727-REV01  Plan Review -> Closed  DCA - BOH - Electrical: 2000 amp temp switchboard on skid. (BLD2025-05348)
-STATUS  anaheim-accela  BLD2025-05043-REV01  Plan Review -> Closed  DLR - East Esplanade - Site Work: Install 106 ln ft x 8 ft high chain link fence and 65 ln ft x 8 ft high wood fence. Relocate (1) light pole.
-NEW  anaheim-accela  BLD2026-05296  10/26/2026  Issued  DLR - New Orleans Square - '27 Holiday - Miscellaneous: Install (1) Christmas tree structure. (Install 11-01-26 thru 1-07-27)
-STATUS  anaheim-accela  SGN2026-00135  Plan Review -> Issued  DLR - Jungle Cruise - Installation of (1) non-illuminated suspended sign.
-STATUS  anaheim-accela  BLD2026-02519  Issued -> Finaled  DLH - Frontier Tower - Tenant Improvement: Install (1) new sheet feeder and all related monitoring devices. With mechanical, electrical and plumbing.
-STATUS  anaheim-accela  BLD2026-04676  Plan Review -> Issued  DLH - Adventure Tower - Tenant Improvement: Repair portion of existing stud wall, add concrete curb and replace heat exchanger system on roof. With electrical, mechanical and plumbing.
-STATUS  anaheim-accela  BLD2026-02690-REV04  Plan Review -> Closed  DLH - Goofy's Kitchen - Tenant Improvement: Install (4) ice machines anchored to existing concrete. With mechanical, electrical and plumbing.
-NEW  anaheim-accela  BLD2026-05444  11/02/2026  Plan Review  DLR - CONF
-NEW  anaheim-accela  BLD2026-05443  11/02/2026  Plan Review  DLR - CONF
