@@ -1,0 +1,6 @@
+NEW  anaheim-accela  BLD2026-05482  11/03/2026  Plan Review  PPH - Parking Structure - Electrical: Install new circuits for new cabinet.
+STATUS  anaheim-accela  BLD2026-04567  Plan Review -> Issued  DLR - North Service Area - Tenant Improvement: Remove exterior cooling tower system and associated structural supports, electrical and plumbing with foundation to remain.
+NEW  anaheim-accela  BLD2026-02836-REV01  11/03/2026  Plan Review  DCA - Hollywood Land/Restrooms - Tenant Improvement: Replace fan coil unit and ceiling supports. With mechanical and electrical.
+NEW  anaheim-accela  BLD2026-05480  11/03/2026  Plan Review  DLR - Haunted Mansion/BLDG #3501 - Tenant Improvement: Install 460 ln ft x 8 ft tall chain link fence throughout basement level. With electrical.
+STATUS  anaheim-accela  BLD2026-05325  Plan Review -> Ready to Issue  DLR - Haunted Mansion - Electrical: Install new server rack and provide receptacles.
+NEW  anaheim-accela  BLD2026-05479  11/03/2026  Plan Review  DLH - Discovery Tower/Palm Breeze Bar - Tenant Improvement: Install sliding glass wall system at (4) sides. Plumbing and electrical to reroute underground utilities.
