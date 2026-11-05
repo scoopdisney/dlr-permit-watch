@@ -1,3 +1,12 @@
-NEW  anaheim-accela  BLD2026-05509  11/04/2026  Ready to Issue  DTD - Lego Store/BLDG EE - Tenant Improvement: Install (1) new mini-split air unit for breakroom and change out (1) roof top air unit on new curb. With mechanical and electrical. (BLD2022-03728/-05058)
-NEW  anaheim-accela  BLD2025-04584-REV31  11/04/2026  Plan Review  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
-STATUS  anaheim-accela  BLD2026-05325  Ready to Issue -> Issued  DLR - Haunted Mansion - Electrical: Install new server rack and provide receptacles.
+NEW  anaheim-accela  BLD2026-05297  10/26/2026  Plan Review  DF CONF
+NEW  anaheim-accela  BLD2026-05438  11/02/2026  Issued  Plumbing and mechanical to support DLR - Red Rose Taverne - Tenant Improvement. REF BLD2026-03766
+NEW  anaheim-accela  BLD2026-05448  11/02/2026  Issued  Plumbing to support DLR - Red Rose Taverne - Miscellaneous. REF BLD2026-03767
+NEW  anaheim-accela  BLD2026-05357  10/28/2026  Issued  Electrical to support DCA - Avenger's Campus - Tenant Improvement. REF BLD2026-04450
+NEW  anaheim-accela  BLD2026-05182  10/21/2026  Issued  Electrical to support DCA - Gate 10/BOH - Area Development. REF BLD2025-06582
+NEW  anaheim-accela  BLD2026-05168  10/20/2026  Issued  Mechanical to support DLR - East Chiller Plant - Non Residential Addition. REF BLD2025-06370
+NEW  anaheim-accela  BLD2026-05146  10/19/2026  Finaled  Mechanical to support DLH - Frontier Tower - Tenant Improvement. REF BLD2026-02519
+NEW  anaheim-accela  BLD2026-05114  10/16/2026  Finaled  Electrical to support DLH - Frontier Tower - Tenant Improvement. REF:BLD2026-02519
+NEW  anaheim-accela  BLD2026-05142  10/19/2026  Issued  Electrical to support DLR - Katella Ave Access Improvements - Site Work. REF:BLD2025-06369
+NEW  anaheim-accela  BLD2026-05119  10/19/2026  Issued  Electrical to support DLR - Ball Cast Member Lot - Accessory Building. REF:BLD2026-03329
+NEW  anaheim-accela  FPI2026-00426-REV01  11/03/2026  Application Accepted  DOWNTOWN DISNEY BUILDING A - ADD PANEL, REMOTE ANNUNCIATOR, INITIATING & NOTIFICATION DEVICES. ALL DEVICES WILL TIE IN NEW PANEL
+NEW  anaheim-accela  FPI2026-00412-REV01  10/16/2026  Closed  DISNEYLAND PARK - TROLLEY BARN BLDG 6201 - ADD (4) NOTIFICATION DEVICES, (2) INITIATING DEVICES AND (1) RELAY MODULE
