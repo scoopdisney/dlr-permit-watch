@@ -22,6 +22,9 @@ const DIR = "data/scan";
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36";
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 180);
+// After a filter widening, old records seen for the first time are logged as BACKFILL
+// instead of flooding the permit-log issue. Recent ones (21 days or less) still post as NEW.
+const BACKFILL = process.env.BACKFILL !== "0";
 const now = new Date();
 const stamp = now.toISOString().replace(/\.\d+Z$/, "Z");
 
@@ -91,10 +94,18 @@ function session() {
 }
 
 const ACA = "https://aca-prod.accela.com/ANAHEIM";
-const ACA_SEARCH = `${ACA}/Cap/CapHome.aspx?module=Building&TabName=Building`;
+const acaUrl = (module) => `${ACA}/Cap/CapHome.aspx?module=${module}&TabName=${module}`;
+const ACA_SEARCH = acaUrl("Building");
 const ACA_STREETS = ["DISNEYLAND", "HARBOR", "MAGIC", "KATELLA", "WEST", "BALL"];
+// Building = construction; Fire = fire alarm/sprinkler plan checks; Planning = zoning, often "DLR - CONF".
+const ACA_MODULES = (process.env.ACA_MODULES || "Building,Fire,Planning").split(",").map((m) => m.trim()).filter(Boolean);
+// Disney codes ANYWHERE in the text, not just at the start: trade permits read
+// "Plumbing to support DLR - Red Rose Taverne ..." and were being dropped.
 const DISNEY_DESC =
-  /^\s*(DLR|DL|DCA|DTD|GCH|DLH|PPH|TDA|DRC)\b|\bDISNEY|\bEASTERN GATEWAY\b|\bTOY STORY (LOT|PARKING)\b/i;
+  /^\s*DL\b|\b(DLR|DCA|DTD|GCH|DLH|PPH|TDA|DRC|DLP)\b|\bDISNEY|\bEASTERN GATEWAY\b|\bTOY STORY (LOT|PARKING)\b/i;
+// Disney parcels. Catches confidential filings ("DF CONF") and unprefixed descriptions.
+const DISNEY_ADDR = /\b(1313|1509|1515) S HARBOR\b|\b1[3-7]\d\d S DISNEYLAND DR\b|\b1150 W MAGIC WAY\b/i;
+const isDisney = (r) => DISNEY_DESC.test(r.title || "") || DISNEY_ADDR.test(r.address || "");
 const P = "ctl00$PlaceHolderMain$generalSearchForm$";
 
 function hiddenFields(html) {
@@ -108,7 +119,8 @@ function hiddenFields(html) {
   return out;
 }
 
-async function acaSearch(street, start, end) {
+async function acaSearch(street, start, end, module = "Building") {
+  const ACA_SEARCH = acaUrl(module);
   const req = session();
   const hdr = { Referer: ACA_SEARCH, Origin: "https://aca-prod.accela.com", "Content-Type": "application/x-www-form-urlencoded" };
   const page = await (await req(ACA_SEARCH)).text();
@@ -125,7 +137,7 @@ async function acaSearch(street, start, end) {
   await req(ACA_SEARCH, { method: "POST", headers: hdr, body: new URLSearchParams(f2) });
   const csvRes = await req(`${ACA}/Export2CSV.ashx?flag=${Date.now() % 10000}`, { headers: { Referer: ACA_SEARCH } });
   const text = await csvRes.text();
-  if (!/^"?Application Date/.test(text)) throw new Error(`Accela export for ${street} was not a CSV`);
+  if (!/^"?(Application Date|Submit Date|Date)"?,/.test(text)) throw new Error(`Accela ${module} export for ${street} was not a CSV`);
   const [h, ...rows] = parseCSV(text);
   return rows.map((r) => Object.fromEntries(h.map((k, i) => [clean(k), clean(r[i])])));
 }
@@ -133,26 +145,39 @@ async function acaSearch(street, start, end) {
 async function scanAnaheim() {
   const out = new Map();
   let calls = 0;
+  const skipped = [];
   const since = addDays(now, -LOOKBACK_DAYS);
-  for (const street of ACA_STREETS) {
-    for (let s = since; s < now; s = addDays(s, 30)) {
-      const e = addDays(s, 29) > now ? now : addDays(s, 29);
-      const rows = await acaSearch(street, s, e);
-      calls++;
-      for (const r of rows) {
-        const num = r["Record Number"];
-        if (!num || !DISNEY_DESC.test(r["Description"] || "")) continue;
-        const parent = (num.match(/^(.*?)-REV\d+$/) || [])[1] || "";
-        out.set(`anaheim:${num}`, {
-          key: `anaheim:${num}`, source: "anaheim-accela", number: num, parent,
-          date: r["Application Date"], type: r["Record Type"], status: r["Status"],
-          address: r["Address"], title: r["Description"], expires: r["Expiration Date"], link: ACA_SEARCH,
-        });
+  for (const module of ACA_MODULES) {
+    for (const street of ACA_STREETS) {
+      for (let s = since; s < now; s = addDays(s, 30)) {
+        const e = addDays(s, 29) > now ? now : addDays(s, 29);
+        let rows;
+        try {
+          rows = await acaSearch(street, s, e, module);
+        } catch (err) {
+          if (module === "Building") throw err; // Building is the core feed: fail loudly
+          skipped.push(`${module}/${street} ${isoDay(s)}`); // Fire/Planning: skip one window, keep going
+          continue;
+        }
+        calls++;
+        for (const r of rows) {
+          const num = r["Record Number"];
+          if (!num) continue;
+          const rec = {
+            key: `anaheim:${num}`, source: "anaheim-accela", number: num,
+            parent: (num.match(/^(.*?)-REV\d+$/) || [])[1] || "",
+            date: r["Application Date"] || r["Submit Date"] || r["Date"] || "",
+            type: r["Record Type"], status: r["Status"], address: r["Address"],
+            title: r["Description"] || r["Project Name"] || r["Short Notes"] || "",
+            expires: r["Expiration Date"] || "", link: acaUrl(module),
+          };
+          if (isDisney(rec)) out.set(rec.key, rec);
+        }
+        await sleep(1200);
       }
-      await sleep(1200);
     }
   }
-  return { records: [...out.values()], note: `${calls} searches across ${ACA_STREETS.length} streets` };
+  return { records: [...out.values()], note: `${calls} searches across ${ACA_MODULES.join("/")} x ${ACA_STREETS.length} streets` + (skipped.length ? `; skipped ${skipped.length}: ${skipped.slice(0, 5).join(", ")}` : "") };
 }
 
 const SFWMD =
@@ -254,8 +279,10 @@ for (const [name, fn] of Object.entries(SOURCES)) {
       next.set(r.key, row);
       if (!old) {
         if (!firstRun) {
-          events.push(`NEW  ${r.source}  ${r.number}  ${r.date}  ${r.status}  ${r.title}`);
-          logRows.push({ detected_at: stamp, kind: "NEW", key: r.key, source: r.source, number: r.number, from: "", to: r.status, title: r.title, link: r.link });
+          const filed = Date.parse(r.date);
+          const backfill = BACKFILL && Number.isFinite(filed) && now - filed > 21 * 86400000;
+          if (!backfill) events.push(`NEW  ${r.source}  ${r.number}  ${r.date}  ${r.status}  ${r.title}`);
+          logRows.push({ detected_at: stamp, kind: backfill ? "BACKFILL" : "NEW", key: r.key, source: r.source, number: r.number, from: "", to: r.status, title: r.title, link: r.link });
         }
       } else {
         if (old.status !== r.status) {
