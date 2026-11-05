@@ -1,1 +1,3 @@
-STATUS  anaheim-accela  BLD2026-04192  Issued -> Finaled  DLR - Main Street/Town Square - Electrical: Install new pin and sleeve receptacle.
+NEW  anaheim-accela  BLD2026-05509  11/04/2026  Ready to Issue  DTD - Lego Store/BLDG EE - Tenant Improvement: Install (1) new mini-split air unit for breakroom and change out (1) roof top air unit on new curb. With mechanical and electrical. (BLD2022-03728/-05058)
+NEW  anaheim-accela  BLD2025-04584-REV31  11/04/2026  Plan Review  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
+STATUS  anaheim-accela  BLD2026-05325  Ready to Issue -> Issued  DLR - Haunted Mansion - Electrical: Install new server rack and provide receptacles.
