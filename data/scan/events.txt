@@ -1,3 +1,7 @@
-STATUS  anaheim-accela  BLD2026-02826  Issued -> Finaled  Electrical to support DCA - Carthay Circle - Tenant Improvement. REF BLD2026-02111
-STATUS  anaheim-accela  BLD2026-04173  Issued -> Finaled  DLR - Winnie the Pooh - Electrical: Install duplex receptacle feeding from emergency panel.
-STATUS  anaheim-accela  BLD2026-05079  Plan Review -> Ready to Issue  DLH - Discovery Tower - Trade Only: Electrical, mechanical and plumbing to replace (2) electric storage tank water heaters to (2) heat exchanger water heaters.
+NEW  anaheim-accela  BLD2026-05587  11/06/2026  Plan Review  DCA - BOH - Mechanical: Install bypass lines for show effect. (90 days max)
+NEW  anaheim-accela  BLD2026-04727-REV02  11/06/2026  Plan Review  DCA - BOH - Electrical: 2000 amp temp switchboard on skid. (BLD2025-05348)
+STATUS  anaheim-accela  SGN2026-00119  Issued -> Finaled  DLR - Old Administration Building - Install (2) illuminated sings on existing awnings and (2) illuminated wall sign.
+NEW  anaheim-accela  BLD2026-05580  11/06/2026  Ready to Issue  Electrical to support DLR - East Esplanade - Site Work. REF:BLD2025-05043
+NEW  anaheim-accela  BLD2026-05590  11/06/2026  Plan Review  DF CONF
+NEW  anaheim-accela  BLD2026-05589  11/06/2026  Plan Review  DF CONF
+NEW  anaheim-accela  BLD2026-05588  11/06/2026  Plan Review  DF CONF
