@@ -1,0 +1,5 @@
+STATUS  anaheim-accela  BLD2026-04073  Ready to Issue -> Issued  DCA - Boardwalk Pizza/BLDG #521 - Tenant Improvement: Remove portion of exterior wall to install new exterior ductwork for new make-up air unit on new concrete pad. With mechanical and electrical.
+DETAIL  anaheim-accela  BLD2026-05587  description changed: DCA - BOH - Plumbing: Install bypass lines for show effect. (90 days max)
+STATUS  anaheim-accela  BLD2026-05297  Plan Review -> Ready to Issue  DTD - '27 Holiday - Miscellaneous: Install (1) Christmas tree structure. (Install 11-01-26 thru 1-07-27)
+DETAIL  anaheim-accela  BLD2026-05297  description changed: DTD - '27 Holiday - Miscellaneous: Install (1) Christmas tree structure. (Install 11-01-26 thru 1-07-27)
+STATUS  anaheim-accela  BLD2026-05580  Ready to Issue -> Issued  Electrical to support DLR - East Esplanade - Site Work. REF:BLD2025-05043
