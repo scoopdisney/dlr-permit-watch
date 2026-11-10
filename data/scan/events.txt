@@ -1,9 +1,0 @@
-NEW  anaheim-accela  BLD2026-05594  11/09/2026  Plan Review  DLR - Pixar Parking Structure - Site Work: Install 2,360 sq. ft. for (3) new shade canopies over existing walkways and 297 ln. ft. of vertical steel mesh shade covers on side of structure for levels 2-6. With electrical.
-STATUS  anaheim-accela  BLD2026-05587  Plan Review -> Issued  DCA - BOH - Plumbing: Install bypass lines for show effect. (90 days max)
-STATUS  anaheim-accela  BLD2026-04727-REV02  Plan Review -> Closed  DCA - BOH - Electrical: 2000 amp temp switchboard on skid. (BLD2025-05348)
-STATUS  anaheim-accela  BLD2026-05482  Plan Review -> Ready to Issue  PPH - Parking Structure - Electrical: Install new circuits for new cabinet.
-STATUS  anaheim-accela  BLD2026-05297  Ready to Issue -> Issued  DTD - '27 Holiday - Miscellaneous: Install (1) Christmas tree structure. (Install 11-01-26 thru 1-07-27)
-NEW  anaheim-accela  BLD2026-05601  11/09/2026  Ready to Issue  Electrical to support DLR - Galactic Grill - Tenant Improvement. REF:BLD2026-04367
-NEW  anaheim-accela  BLD2026-05603  11/09/2026  Ready to Issue  Electrical to support DLR - Mickey's Toontown - Mickey and Minnie's Runaway Railway - Tenant Improvement. REF:BLD2026-04708
-NEW  anaheim-accela  BLD2026-05608  11/09/2026  Plan Review  DF CONF
-STATUS  anaheim-accela  BLD2025-04584-REV31  Plan Review -> Closed  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
