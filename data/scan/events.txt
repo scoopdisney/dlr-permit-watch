@@ -1,7 +1,0 @@
-NEW  anaheim-accela  BLD2026-02214-REV02  11/10/2026  Plan Review  GCH - Ground Level - Tenant Improvement: Install new new heat exchangers and water softener in existing mechanical room. Equipment anchored to new concrete pad. With mechanical, electrical and plumbing. (BLD2026-02496)
-NEW  anaheim-accela  BLD2026-02496-REV03  11/10/2026  Plan Review  GCH - Ground Level - Tenant Improvement: Install (2) interim heat exchangers outside of the building anchored to existing concrete. Install 71 ln ft x 8 ft tall screen wall. With mechanical, electrical and plumbing. (BLD2026-02214)
-STATUS  anaheim-accela  BLD2026-03380  Issued -> Finaled  DLR - Coca-Cola Corner Cafe/Candy Palace - Tenant Improvement: 55 sq ft to remove and replace (4) icee beverage dispensers with new cabinets/surround. With mechanical, electrical and plumbing.
-NEW  anaheim-accela  BLD2026-05631  11/10/2026  Plan Review  DF CONF
-NEW  anaheim-accela  BLD2026-05634  11/10/2026  Plan Review  DF CONF
-NEW  anaheim-accela  BLD2026-05641  11/10/2026  Ready to Issue  Electrical to support DLR - Red Rose Taverne - Miscellaneous. REF:BLD2026-03767
-NEW  anaheim-accela  BLD2026-05642  11/10/2026  Ready to Issue  Electrical to support DLR - Red Rose Taverne - Tenant Improvement. REF:BLD2026-03766
