@@ -1,0 +1,4 @@
+STATUS  anaheim-accela  BLD2026-02906  Issued -> Finaled  Electrical to support DLR - Finding Nemo - Dry Dock Facility - Non-Residential Addition. REF BLD2026-00906
+STATUS  anaheim-accela  SGN2026-00140  Issued -> Finaled  DCA - QSR #763 - Bountiful Valley Brews - Install (1) non-illuminated marquee, (1) non-illuminated hanging menu, (1) non-illuminated blade sign and (1) non-illuminated directional sign. (BLD2025-06429)
+STATUS  anaheim-accela  BLD2026-05079  Ready to Issue -> Issued  DLH - Discovery Tower - Trade Only: Electrical, mechanical and plumbing to replace (2) electric storage tank water heaters to (2) heat exchanger water heaters.
+NEW  anaheim-accela  BLD2026-05673  11/12/2026  Plan Review  DCA - Carsland - Flo's V8 Cafe - Tenant Improvement: Install (2) interim water heaters and (1) interim expansion tank. With electrical and plumbing.
