@@ -1,4 +1,9 @@
-STATUS  anaheim-accela  BLD2026-02906  Issued -> Finaled  Electrical to support DLR - Finding Nemo - Dry Dock Facility - Non-Residential Addition. REF BLD2026-00906
-STATUS  anaheim-accela  SGN2026-00140  Issued -> Finaled  DCA - QSR #763 - Bountiful Valley Brews - Install (1) non-illuminated marquee, (1) non-illuminated hanging menu, (1) non-illuminated blade sign and (1) non-illuminated directional sign. (BLD2025-06429)
-STATUS  anaheim-accela  BLD2026-05079  Ready to Issue -> Issued  DLH - Discovery Tower - Trade Only: Electrical, mechanical and plumbing to replace (2) electric storage tank water heaters to (2) heat exchanger water heaters.
-NEW  anaheim-accela  BLD2026-05673  11/12/2026  Plan Review  DCA - Carsland - Flo's V8 Cafe - Tenant Improvement: Install (2) interim water heaters and (1) interim expansion tank. With electrical and plumbing.
+NEW  anaheim-accela  BLD2026-05703  11/13/2026  Plan Review  DCA - BOH - World Of Color - Trade Only: Install underground utility connections to support for new compressor plant.
+NEW  anaheim-accela  BLD2026-05704  11/13/2026  Plan Review  DCA - BOH - World Of Color - Site Work: Install (5) storage tanks, air-cooled dryer and associated equipment on new concrete pads to support new compressor plan.
+NEW  anaheim-accela  BLD2026-05709  11/13/2026  Plan Review  DF CONF
+STATUS  anaheim-accela  BLD2026-04370  Ready to Issue -> Issued  DLR - West Service Area/BOH - Demolition: 105 sq ft equipment shed to be demolished with utilities to be capped and foundation to be removed.
+STATUS  anaheim-accela  BLD2026-04967  Ready to Issue -> Issued  DLR - Main Street Station - Candlelight Procession '26 - Miscellaneous: Install outdoor steel platforms with stairs, accessible platform with ramp, wheelchair lift, audio booth and (8) light/audio towers. (30 days max)
+NEW  anaheim-accela  BLD2025-04584-REV32  11/13/2026  Plan Review  DCA - 760 Block/BLDG #761 - New Commercial Construction: 110,757 sq. ft. attraction building with restrooms, offices and breakroom. Construct 3,425 sq. ft. of canopies and (9) awnings.
+NEW  anaheim-accela  BLD2026-05702  11/13/2026  Ready to Issue  Electrical to support DLR - Main Street/Block 600 - Tenant Improvement. REF:BLD2026-01981
+NEW  anaheim-accela  BLD2026-05708  11/13/2026  Plan Review  DLR - North Service Area - Team Disney - Tenant Improvement: 4,542 sq. ft. to reconfigure existing office with new cubicles. With electrical.
+STATUS  anaheim-accela  FPI2026-00184-REV02  Application Accepted -> Plan Check  DISNEYLAND PARK - NEW ORLEANS SQUARE PIRATES OF THE CARIBBEAN BLDG. 3101 - ADD NEW FIRE ALARM CONTROL PANELS AND TRANSPONDERS
