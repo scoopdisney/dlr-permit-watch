@@ -1,7 +1,1 @@
-NEW  anaheim-accela  BLD2026-05761  11/17/2026  Plan Review  DLR - CONF
-STATUS  anaheim-accela  BLD2026-04983-REV01  Plan Review -> Closed  DLR - DCA Central Energy Plant - Electrical: Install receptacles and LED fixtures in office.
-STATUS  anaheim-accela  BLD2026-05361  Plan Review -> Issued  DLR - Old Administration Building - Tenant Improvement: Replace aluminum panels along north catwalk. Replace (1) fabric awning at east side.
-STATUS  anaheim-accela  BLD2026-05326  Plan Review -> Issued  DCA - Guardians of the Galaxy - Tenant Improvement: Extend existing 5th floor platform. Install cable hoists, traveling cable boxes and electrical.
-STATUS  anaheim-accela  BLD2026-04070  Plan Review -> Ready to Issue  DCA - Redwood Creek Trail - Holiday - Miscellaneous: Install (1) stage with ramp. (11/08/26 thru 01/06/27)
-DETAIL  anaheim-accela  BLD2026-04070  description changed: DCA - Redwood Creek Trail - Holiday - Miscellaneous: Install (1) stage with ramp. (11/08/26 thru 01/06/27)
-NEW  anaheim-accela  BLD2026-05737  11/17/2026  Plan Review  DCA - Soaring Over California - World Of Color - Site Work: Install storage tank on new concrete pad.
+SOURCE DOWN  anaheim-accela: Accela search for HARBOR returned no result grid
