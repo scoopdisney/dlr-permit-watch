@@ -1,12 +1,12 @@
 {
   "resort": "dlr",
-  "run_at": "2026-11-19T21:36:45Z",
+  "run_at": "2026-11-20T03:18:51Z",
   "lookback_days": 180,
   "sources": {
     "anaheim-accela": {
       "ok": false,
-      "error": "Accela search for MAGIC returned no result grid",
-      "seconds": 34
+      "error": "Accela search for HARBOR returned no result grid",
+      "seconds": 30
     }
   }
 }
