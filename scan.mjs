@@ -96,7 +96,7 @@ function session() {
 const ACA = "https://aca-prod.accela.com/ANAHEIM";
 const acaUrl = (module) => `${ACA}/Cap/CapHome.aspx?module=${module}&TabName=${module}`;
 const ACA_SEARCH = acaUrl("Building");
-const ACA_STREETS = ["DISNEYLAND", "HARBOR", "MAGIC", "KATELLA", "WEST", "BALL"];
+const ACA_STREETS = ["DISNEYLAND", "HARBOR", "MAGIC", "KATELLA", "WEST", "BALL", "MANCHESTER"];
 // Building = construction; Fire = fire alarm/sprinkler plan checks; Planning = zoning, often "DLR - CONF".
 const ACA_MODULES = (process.env.ACA_MODULES || "Building,Fire,Planning").split(",").map((m) => m.trim()).filter(Boolean);
 // Disney codes ANYWHERE in the text, not just at the start: trade permits read
@@ -120,6 +120,17 @@ function hiddenFields(html) {
 }
 
 async function acaSearch(street, start, end, module = "Building") {
+  // Accela has been throwing intermittent 502s since 2026-11-18: retry before giving up on a window
+  for (let attempt = 1; ; attempt++) {
+    try { return await acaSearchOnce(street, start, end, module); }
+    catch (err) {
+      if (attempt >= 3 || /CSRF/.test(String(err))) throw err;
+      await sleep(attempt * 20000);
+    }
+  }
+}
+
+async function acaSearchOnce(street, start, end, module = "Building") {
   const ACA_SEARCH = acaUrl(module);
   const req = session();
   const hdr = { Referer: ACA_SEARCH, Origin: "https://aca-prod.accela.com", "Content-Type": "application/x-www-form-urlencoded" };
@@ -144,10 +155,10 @@ async function acaSearch(street, start, end, module = "Building") {
 
 async function scanAnaheim() {
   const out = new Map();
-  let calls = 0;
+  let calls = 0, lastErr = null, failStreak = 0, stoppedEarly = false;
   const skipped = [];
   const since = addDays(now, -LOOKBACK_DAYS);
-  for (const module of ACA_MODULES) {
+  scan: for (const module of ACA_MODULES) {
     for (const street of ACA_STREETS) {
       for (let s = since; s < now; s = addDays(s, 30)) {
         const e = addDays(s, 29) > now ? now : addDays(s, 29);
@@ -155,11 +166,13 @@ async function scanAnaheim() {
         try {
           rows = await acaSearch(street, s, e, module);
         } catch (err) {
-          if (module === "Building") throw err; // Building is the core feed: fail loudly
-          skipped.push(`${module}/${street} ${isoDay(s)}`); // Fire/Planning: skip one window, keep going
+          skipped.push(`${module}/${street} ${isoDay(s)}`); // skip this window, keep going; saved records stay
+          lastErr = err;
+          if (++failStreak >= 4) { stoppedEarly = true; break scan; } // Accela is down: keep what came back, stop for this run
           continue;
         }
         calls++;
+        failStreak = 0;
         for (const r of rows) {
           const num = r["Record Number"];
           if (!num) continue;
@@ -177,7 +190,9 @@ async function scanAnaheim() {
       }
     }
   }
-  return { records: [...out.values()], note: `${calls} searches across ${ACA_MODULES.join("/")} x ${ACA_STREETS.length} streets` + (skipped.length ? `; skipped ${skipped.length}: ${skipped.slice(0, 5).join(", ")}` : "") };
+  if (calls === 0 && lastErr) throw lastErr; // nothing came back at all: report the source as down
+  return { records: [...out.values()], note: `${calls} searches across ${ACA_MODULES.join("/")} x ${ACA_STREETS.length} streets` + (skipped.length ? `; PARTIAL, skipped ${skipped.length}: ${skipped.slice(0, 5).join(", ")}` : "")
+    + (stoppedEarly ? `; stopped early after 4 failed searches in a row (${String(lastErr.message || lastErr).slice(0, 80)})` : "") };
 }
 
 const SFWMD =
