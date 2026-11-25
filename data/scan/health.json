@@ -1,12 +1,12 @@
 {
   "resort": "dlr",
-  "run_at": "2026-11-24T14:53:32Z",
+  "run_at": "2026-11-25T00:45:52Z",
   "lookback_days": 180,
   "sources": {
     "anaheim-accela": {
       "ok": true,
-      "records": 291,
-      "note": "10 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/HARBOR 2026-09-25, Building/HARBOR 2026-10-25, Building/MAGIC 2026-05-28, Building/MAGIC 2026-06-27; stopped early after 4 failed searches in a row (Accela search for MAGIC returned no result grid)",
+      "records": 358,
+      "note": "13 searches across Building/Fire/Planning x 7 streets; PARTIAL, skipped 4: Building/MAGIC 2026-06-28, Building/MAGIC 2026-07-28, Building/MAGIC 2026-08-27, Building/MAGIC 2026-09-26; stopped early after 4 failed searches in a row (Accela search for MAGIC returned no result grid)",
       "seconds": 271
     }
   }
