@@ -1,1 +1,2 @@
-STATUS  anaheim-accela  BLD2025-05291-REV04  Approved -> Closed  DTD - Building A - Non-Residential Addition: 11,407 sq ft new restaurant over existing basement level. 2,222 sq ft basement to be remodeled. 2,879 sq ft outdoor covered dining and 400 sq ft canopy over entrance.
+NEW  anaheim-accela  BLD2026-05918  11/25/2026  Plan Review  GCH - Craftsman Bar - Tenant Improvement: 600 sq ft remodel of existing men's and women's restrooms with accessibility upgrades and mechanical, electrical, plumbing fixtures changeouts.
+STATUS  anaheim-accela  BLD2026-02951-REV01  Plan Review -> Closed  PPH - First Floor - Tenant Improvement: 183 sq ft for new all-gender accessible restroom. With mechanical, electrical and plumbing.
